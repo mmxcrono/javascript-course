@@ -10,9 +10,9 @@ Learn JavaScript
 
 ## JS Topics
 
-- Syntax
-- Variables
-- Data Types
+- [Syntax](docs/syntax.md)
+- [Variables](docs/variables.md)
+- [Data Types](docs/data-types.md)
 - Basic operators
 - Conditions
 - Coalescence
