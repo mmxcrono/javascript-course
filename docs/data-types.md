@@ -15,3 +15,5 @@ let book = {
   },
 };
 ```
+
+- [Further reading](https://javascript.info/data-types)
